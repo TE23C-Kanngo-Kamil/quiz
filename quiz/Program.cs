@@ -1,9 +1,9 @@
 ﻿int poäng = 0;
 
-Console.WriteLine("Fråga 1: Vad är huvudstaden i Norge?");
-Console.WriteLine("a) Oslo");
-Console.WriteLine("b) Bergen");
-Console.WriteLine("c) Trondheim");
+Console.WriteLine("Fråga 1: Vad är Tyler, The Creators mest populära album i streams?");
+Console.WriteLine("a) IGOR");
+Console.WriteLine("b) Flower Boy");
+Console.WriteLine("c) CALL ME IF YOU GET LOST");
 string svar1 = Console.ReadLine();
 
 if (svar1 == "a")
@@ -11,10 +11,10 @@ if (svar1 == "a")
     poäng++;
 }
 
-Console.WriteLine("Fråga 2: Vilket år bröt första världskriget ut?");
-Console.WriteLine("a) 1912");
-Console.WriteLine("b) 1914");
-Console.WriteLine("c) 1916");
+Console.WriteLine("Fråga 2: Vilket år släppte Frank Ocean \"Blonde\"?");
+Console.WriteLine("a) 2017");
+Console.WriteLine("b) 2016");
+Console.WriteLine("c) 2015");
 string svar2 = Console.ReadLine();
 
 if (svar2 == "b")
@@ -22,10 +22,10 @@ if (svar2 == "b")
     poäng++;
 }
 
-Console.WriteLine("Fråga 3: Vilken är den största kontinenten?");
-Console.WriteLine("a) Afrika");
-Console.WriteLine("b) Asien");
-Console.WriteLine("c) Europa");
+Console.WriteLine("Fråga 3: Vilken stad fokuserar Kendrick Lamar på i albumet \"good kid, m.A.A.d city\"?");
+Console.WriteLine("a) New York");
+Console.WriteLine("b) Compton");
+Console.WriteLine("c) Atlanta");
 string svar3 = Console.ReadLine();
 
 if (svar3 == "b")
@@ -33,24 +33,24 @@ if (svar3 == "b")
     poäng++;
 }
 
-Console.WriteLine("Fråga 4: Vad är den minsta planeten i vårt solsystem?");
-Console.WriteLine("a) Venus");
-Console.WriteLine("b) Merkurius");
-Console.WriteLine("c) Mars");
+Console.WriteLine("Fråga 4: Vilket av Kanye Wests album anses vara mest experimentellt?");
+Console.WriteLine("a) The Life of Pablo");
+Console.WriteLine("b) 808s & Heartbreak");
+Console.WriteLine("c) Yeezus");
 string svar4 = Console.ReadLine();
 
-if (svar4 == "b")
+if (svar4 == "c")
 {
     poäng++;
 }
 
-Console.WriteLine("Fråga 5: Vem var USA:s första president?");
-Console.WriteLine("a) Thomas Jefferson");
-Console.WriteLine("b) George Washington");
-Console.WriteLine("c) Abraham Lincoln");
+Console.WriteLine("Fråga 5: Vilket av Drakes album innehåller hitlåtarna \"Hotline Bling\" och \"One Dance\"?");
+Console.WriteLine("a) Views");
+Console.WriteLine("b) More Life");
+Console.WriteLine("c) Scorpion");
 string svar5 = Console.ReadLine();
 
-if (svar5 == "b")
+if (svar5 == "a")
 {
     poäng++;
 }
