@@ -11,7 +11,7 @@ if (svar1 == "a")
     poäng++;
 }
 
-Console.WriteLine("Fråga 2: Vilket år släppte Frank Ocean \"Blonde\"?");
+Console.WriteLine("Fråga 2: Vilket år släppte Frank Ocean albumet \"Blonde\"?");
 Console.WriteLine("a) 2017");
 Console.WriteLine("b) 2016");
 Console.WriteLine("c) 2015");
@@ -79,7 +79,7 @@ if (svar7 == "c")
     poäng++;
 }
 
-Console.WriteLine("Fråga 8: Genom vilket sätt släppte Frank Ocean albumet \"Endless\" online?");
+Console.WriteLine("Fråga 8: Genom vilket process släppte Frank Ocean albumet \"Endless\" online?");
 Console.WriteLine("a) En ljudbok");
 Console.WriteLine("b) En live-streamad video");
 Console.WriteLine("c) En exklusiv CD-skiva");
